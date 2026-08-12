@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at the Max Planck Institute for Polymer Research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info:
 
