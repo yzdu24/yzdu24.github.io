@@ -33,9 +33,8 @@ My current research focuses on molecular dynamics simulations of materials for O
 ### Research Interests
 
 - Machine learning for materials
-- Molecular dynamics simulations, including coacervates and proteins
-- Quantum computing and Ising machines
-- Organic light-emitting diodes (OLEDs)
+- Molecular dynamics simulations(e.g. coacervates, proteins)
+- Quantum computing(e.g. Ising machines)
 - Perovskite solar cells
 - Redox flow batteries
 - Lithium-ion batteries
