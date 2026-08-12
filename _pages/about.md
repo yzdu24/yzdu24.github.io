@@ -8,7 +8,9 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false
-  more_info:
+  more_info: >
+  <p><a href="https://www.mpip-mainz.mpg.de/" target="_blank">Max Planck Institute for Polymer Research</a></p>
+  <p>Mainz, Germany</p>
 
 selected_papers: true
 social: true
